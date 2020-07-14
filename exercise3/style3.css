@@ -1,0 +1,16 @@
+.heading{
+    background-color: lightblue;
+    font-family: cursive;
+    text-align: center;
+}
+#hero{
+    text-align: center;
+   background-color: lightgray;
+}
+#option{
+    text-align: center;
+    word-spacing: 30px;
+}
+body{
+    background-color: darkcyan;
+}
