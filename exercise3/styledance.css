@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    text-align: center;
+    background-color:lightcoral;
+}
+header{
+    height:50px;
+    background: lightblue;
+    width:100%;
+}
+header h1{
+    font-family: cursive;
+    font-weight: 200;
+    color: lightseagreen;
+}
+ul{
+    font-family: italian;
+}
+li{
+    font-size: 24px;
+    background-color: linen;
+}
+ul p{
+    font-family: italian;
+    background-color: mintcream;
+}

@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    text-align: center;
+    background-image: url(about.jpg);
+}
+header{
+    height:50px;
+    background: lightblue;
+    width:100%;
+}
+.up h1{
+    text-align: center;
+    color: lightseagreen;
+    font-family: cursive;
+    font-weight: 200;
+}
+.content{
+    font-family: italian;
+    background-color: lightyellow;
+}
+.culture{
+    font-family: italian;
+    background-color: bisque;
+}
+.culture h2{
+    font-family:cursive ;
+    color: lightseagreen;
+    font-weight: 200;
+}
+.facts{
+    font-family: italian;
+    background-color: lemonchiffon;
+}
+.facts h2{
+    font-family:cursive ;
+    color: lightseagreen;
+    font-weight: 200;
+}
